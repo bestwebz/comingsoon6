@@ -1,2 +1,5 @@
 # comingsoon6
-https://comesoonz.blogspot.com/
+
+A Coming Soon Page Design By Zorex Zisa
+
+Demo: https://comesoonz.blogspot.com/
